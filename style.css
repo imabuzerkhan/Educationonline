@@ -35,7 +35,7 @@ header{
     position: fixed;
     top: 2rem;
     left: 50%;
-    transform: translate(-50%);
+    transform: translateX(-50%);
     border-radius: 5rem;
     display: flex;
     align-items: center;
